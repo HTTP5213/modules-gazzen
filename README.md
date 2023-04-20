@@ -24,10 +24,11 @@ You code will be subject to unit testing, but it will also be run through a styl
 <p>The Civic Hospital Management System can be entered using a username and password. It is accessible either by an administrator or receptionist. Only they can add data into the database. The data can be retrieved easily. The interface is very user-friendly. The data are well protected for personal use and makes the data processing very fast.</p>
 
 
-**Features**
+## Features
+
 The Hospital Management System offers the following features:
 
-**Patient, doctor, and donor registration**: The system allows for the registration of patients, doctors, and donors. Their details are stored in the database for easy retrieval and management.
+* **Patient, doctor, and donor registration**: The system allows for the registration of patients, doctors, and donors. Their details are stored in the database for easy retrieval and management.
 
 **Computerized appointment and discharge information**: The system enables the creation of appointments for patients and their doctors. The discharge information is also recorded, and the system generates discharge reports for patients.
 
@@ -41,7 +42,7 @@ The Hospital Management System offers the following features:
 
 **Fast data processing**: The system's design ensures that data is processed quickly, allowing for efficient management of patient records, financial records, legal records, administrative records, and healthcare performance.
 
-**Entities**
+## Entities
 <p>In the Hospital Management System includes 8 entities. Each member of the development team is working on two entities to complete the system. The entities and their assigned team members are as follows:.</p>
 
 <ul>
@@ -68,8 +69,10 @@ The Hospital Management System offers the following features:
 
 **Discharge**: The discharge entity is responsible for the management of discharge-related information, such as the date of discharge and any instructions given to the patient.
 
-**Access**
+## Access
+
 The Hospital Management System can be accessed by authorized users, such as administrators and receptionists. The system is secured using a username and password authentication system, which ensures that only authorized users can access the system. The system also has role-based access control, which allows for fine-grained control over what each user can access and do within the system.
 
-**Conclusion**
+## Conclusion
+
 The Hospital Management System is a powerful and flexible system that delivers real benefits to hospitals and their patients. The system's features, including patient registration, computerized appointment and discharge information, unique IDs, search facilities, user-friendly interface, data protection, and fast data processing, make it an essential tool for managing patient records, financial records, legal records, administrative records, and healthcare performance. By using the Hospital Management System, hospitals
